@@ -1,0 +1,11 @@
+<?xml version="1.0"encoding="UTF-8"?>
+<widget
+id="com.voltbuilder.sample"
+xmlns="https://www.w3.org./ns/widgets"
+versioncode="10"
+version="1.0.0">
+<name>Pine City Zoo</name>
+<description>About Animals and Place in the Pine City Zoo App.</description>
+<plugin name="cordova-plugin-device">
+<access origin="*" />
+</widget>
